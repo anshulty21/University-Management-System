@@ -1,7 +1,6 @@
-## "MINI PROJECT" ( 3rd year) (submitted to Mr. Mahesha A M)
+## "MINI PROJECT" ( 3rd year) 
 NAME : ANSHUL TYAGI 
-ROLL NO. : 1900910100032
-BATCH : 5CS1 - A1 
+
 
 
 # Django University Management System (UMS)
