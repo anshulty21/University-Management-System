@@ -58,7 +58,7 @@ For Student
 Email: student@gmail.com
 Password: student
 
-#Screenshots & Features
+# Screenshots & Features
 ## Login Portal
 ![1](https://user-images.githubusercontent.com/53966236/182367667-ead1df5b-dcb0-48e5-8e9f-38bee6669434.JPG)
 ## Admin Dashboard
