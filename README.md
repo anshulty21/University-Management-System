@@ -58,6 +58,23 @@ For Student
 Email: student@gmail.com
 Password: student
 
-#Screenshots
+#Screenshots & Features
+## Login Portal
+![1](https://user-images.githubusercontent.com/53966236/182367667-ead1df5b-dcb0-48e5-8e9f-38bee6669434.JPG)
+## Admin Dashboard
+![2](https://user-images.githubusercontent.com/53966236/182367684-028619a9-2ec9-4fb3-a1e0-fbabf0021fcd.JPG)
+## Manage Staff
+![3](https://user-images.githubusercontent.com/53966236/182367691-2d5192ce-4f30-49d6-a944-88032432a445.JPG)
+## Student Feebback
+![4](https://user-images.githubusercontent.com/53966236/182367697-e07e57db-1288-4e4f-82d7-14b09f9cc565.JPG)
+## Manage Subjects
+![5](https://user-images.githubusercontent.com/53966236/182367703-2caca1c7-3a37-4952-8e41-82e4b966e337.JPG)
+## Student Dashboard
+![6](https://user-images.githubusercontent.com/53966236/182367760-ea08bebb-7f72-4248-9ef2-3429ef54c050.JPG)
+## View Result
+![7](https://user-images.githubusercontent.com/53966236/182367786-044303ff-c9b5-4951-9bbe-722df627aa99.JPG)
+## Staff Dashboard
+![8](https://user-images.githubusercontent.com/53966236/182368002-ade7b880-5bfd-42f8-b1c7-053e682977ee.JPG)
+
 
 
